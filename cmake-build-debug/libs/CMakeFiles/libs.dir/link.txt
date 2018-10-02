@@ -1,0 +1,2 @@
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe qc liblibs.a  CMakeFiles/libs.dir/json/src/io.cpp.obj CMakeFiles/libs.dir/json/src/value.cpp.obj
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ranlib.exe liblibs.a
